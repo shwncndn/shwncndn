@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shwncndn
-- 👀 I’m interested in ... Hearing Aid Technology
+- 👀 I’m interested in ... Web Dev and Digital Signal Processing
 - 🌱 I’m currently learning ... Elixir/Phoenix/Liveview
 - 📫 How to reach me ... https://www.linkedin.com/in/shawn-condon-612074198/
 
