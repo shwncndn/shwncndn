@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @shwncndn
+- shwncnndn.dev (site) and shwncndn.hashnode.dev (blog)
 - 👀 I’m interested in ... Web Dev and Digital Signal Processing
 - 🌱 I’m currently learning ... Elixir/Phoenix/Liveview
-- 📫 How to reach me ... https://www.linkedin.com/in/shawn-condon-612074198/
+- 📫 How to reach me ... www.linkedin.com/in/
+shawn-condon-jr
+
+
 
 <!---
 shwncndn/shwncndn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
